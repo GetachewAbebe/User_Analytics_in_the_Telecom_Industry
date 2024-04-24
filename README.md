@@ -2,7 +2,6 @@
 
 
 # Folder Sturcture
-
 User_Analytics_Project/
 │
 ├── data/
