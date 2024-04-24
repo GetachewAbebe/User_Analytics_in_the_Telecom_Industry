@@ -19,5 +19,3 @@ The User Engagement Analysis task focuses on tracking user engagement using vari
 4. **Aggregate user total traffic per application and derive the top 10 most engaged users per application.**
 5. **Plot the top 3 most used applications using appropriate charts.**
 6. **Determine the optimized value of k using the elbow method for k-means clustering.**
-
--
