@@ -3,15 +3,14 @@
 
 # Folder Sturcture
 
-User_Analytics_In_The_Telecomunication_Industry/
+User_Analytics_Project/
 │
 ├── data/
-│   ├── cleaned_data.csv
+│   ├── telecom_data.csv
 │
 ├── notebooks/
-│   ├── data_cleaning.ipynb
-│   ├── user_overview_analysis.ipynb
-│   ├── user_engagment_analysis.ipynb
+│   ├── Task_2_Exploratory_Data_Analysis.ipynb
+│   ├── Task_3_User_Engagement_Analysis.ipynb
 │
 ├── scripts/
 │   ├── data_preprocessing.py
@@ -19,7 +18,12 @@ User_Analytics_In_The_Telecomunication_Industry/
 │   ├── visualization.py
 │   ├── clustering.py
 │
+├── reports/
+│   ├── Task_2_Exploratory_Data_Analysis_Report.pdf
+│   ├── Task_3_User_Engagement_Analysis_Report.pdf
+│
 ├── README.md
+
 
 ## Overview
 This project aims to analyze user behavior and engagement in a telecommunications dataset. It is divided into three main tasks: User Overview Analysis, User Engagement Analysis, and Creating a README file.
