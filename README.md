@@ -1,52 +1,7 @@
 # Telecom User Analytics Project
 
-
-# Folder Sturcture
-User_Analytics_Project/
-│
-├── data/
-│   ├── telecom_data.csv
-│
-├── notebooks/
-│   ├── Task_2_Exploratory_Data_Analysis.ipynb
-│   ├── Task_3_User_Engagement_Analysis.ipynb
-│
-├── scripts/
-│   ├── data_preprocessing.py
-│   ├── data_analysis.py
-│   ├── visualization.py
-│   ├── clustering.py
-│
-├── reports/
-│   ├── Task_2_Exploratory_Data_Analysis_Report.pdf
-│   ├── Task_3_User_Engagement_Analysis_Report.pdf
-│
-├── README.md
-
-
 ## Overview
 This project aims to analyze user behavior and engagement in a telecommunications dataset. It is divided into three main tasks: User Overview Analysis, User Engagement Analysis, and Creating a README file.
-
-User_Analytics_Project/
-│
-├── data/
-│   ├── telecom_data.csv
-│
-├── notebooks/
-│   ├── Task_2_Exploratory_Data_Analysis.ipynb
-│   ├── Task_3_User_Engagement_Analysis.ipynb
-│
-├── scripts/
-│   ├── data_preprocessing.py
-│   ├── data_analysis.py
-│   ├── visualization.py
-│   ├── clustering.py
-│
-├── reports/
-│   ├── Task_2_Exploratory_Data_Analysis_Report.pdf
-│   ├── Task_3_User_Engagement_Analysis_Report.pdf
-│
-├── README.md
 
 ## Task 2 - User Overview Analysis
 The User Overview Analysis task involves understanding user behavior and exploring insights from the dataset. It includes sub-tasks such as identifying the top handsets used by customers, conducting exploratory data analysis, and deriving useful insights from the data.
