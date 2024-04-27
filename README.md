@@ -1,5 +1,4 @@
 # Telecom User Analytics Project
-# Main
 ## Overview
 This project aims to analyze user behavior and engagement in a telecommunications dataset. It is divided into three main tasks: User Overview Analysis, User Engagement Analysis, and Creating a README file.
 
