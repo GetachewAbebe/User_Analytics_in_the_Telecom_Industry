@@ -1,0 +1,59 @@
+2024-04-27 12:30:30,936:logger:Get missing values
+2024-04-27 12:36:27,369:logger:Get missing values
+2024-04-27 12:44:24,740:logger:Get missing values
+2024-04-27 12:44:58,040:logger:Get missing values
+2024-04-27 12:46:28,708:logger:bfill fix missing
+2024-04-27 12:46:28,714:logger:bfill fix missing
+2024-04-27 12:47:45,151:logger:ffil fix missing
+2024-04-27 12:47:45,153:logger:ffil fix missing
+2024-04-27 12:48:37,842:logger:Get missing values
+2024-04-27 12:53:37,608:logger:Get missing values
+2024-04-27 12:56:55,900:logger:Converted to datetime
+2024-04-27 12:56:55,973:logger:Converted to datetime
+2024-04-27 12:57:40,419:logger:Converted to integer
+2024-04-27 12:57:40,421:logger:Converted to integer
+2024-04-27 12:57:40,422:logger:Converted to integer
+2024-04-27 12:57:40,424:logger:Converted to integer
+2024-04-27 12:58:34,872:logger:Converted to string
+2024-04-27 12:58:34,895:logger:Converted to string
+2024-04-27 12:58:34,908:logger:Converted to string
+2024-04-27 12:59:21,761:logger:Dropped duplicates
+2024-04-27 12:59:54,902:logger:"['Dur (s)'] not found in axis"
+2024-04-27 13:06:42,002:logger:Fix outliers
+2024-04-27 13:06:42,008:logger:Fix outliers
+2024-04-27 13:06:42,012:logger:Fix outliers
+2024-04-27 13:06:42,016:logger:Fix outliers
+2024-04-27 13:06:42,021:logger:Fix outliers
+2024-04-27 13:06:42,027:logger:Fix outliers
+2024-04-27 13:06:42,033:logger:Fix outliers
+2024-04-27 13:06:42,039:logger:Fix outliers
+2024-04-27 13:06:42,045:logger:Fix outliers
+2024-04-27 13:06:42,051:logger:Fix outliers
+2024-04-27 13:06:42,058:logger:Fix outliers
+2024-04-27 13:06:42,064:logger:Fix outliers
+2024-04-27 13:06:42,069:logger:Fix outliers
+2024-04-27 13:06:42,074:logger:Fix outliers
+2024-04-27 13:06:42,080:logger:Fix outliers
+2024-04-27 13:06:42,084:logger:Fix outliers
+2024-04-27 13:06:42,087:logger:Fix outliers
+2024-04-27 13:06:42,092:logger:Fix outliers
+2024-04-27 13:06:42,097:logger:Fix outliers
+2024-04-27 13:06:42,103:logger:Fix outliers
+2024-04-27 13:06:42,108:logger:Fix outliers
+2024-04-27 13:06:42,113:logger:Fix outliers
+2024-04-27 13:06:42,119:logger:Fix outliers
+2024-04-27 13:06:42,124:logger:Fix outliers
+2024-04-27 13:06:42,130:logger:Fix outliers
+2024-04-27 13:06:42,135:logger:Fix outliers
+2024-04-27 13:06:42,140:logger:Fix outliers
+2024-04-27 13:06:42,146:logger:Fix outliers
+2024-04-27 13:06:42,151:logger:Fix outliers
+2024-04-27 13:06:42,155:logger:Fix outliers
+2024-04-27 13:06:42,162:logger:Fix outliers
+2024-04-27 13:06:42,167:logger:Fix outliers
+2024-04-27 13:06:42,171:logger:Fix outliers
+2024-04-27 13:06:42,178:logger:Fix outliers
+2024-04-27 13:06:42,183:logger:Fix outliers
+2024-04-27 13:06:42,187:logger:Fix outliers
+2024-04-27 13:06:42,194:logger:Fix outliers
+2024-04-27 13:06:42,199:logger:Fix outliers
