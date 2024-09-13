@@ -1,7 +1,6 @@
 pandas
 sqlalchemy
-os
-dotenv
+python-dotenv
 urllib3
 numpy
 matplotlib
